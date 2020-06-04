@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>StudentInfoSystem</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/mysql-connector-java-8.0.19.jar</name>
+			<type>1</type>
+			<location>E:/Program Files/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar</location>
+		</link>
+	</linkedResources>
+</projectDescription>
